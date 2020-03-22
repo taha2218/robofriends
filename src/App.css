@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Titan+One&display=swap');
+
+h1{
+    font-family: 'Titan One', cursive;
+    font-size: 2.5em;
+    font-weight: 300;
+}
+.buffer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
